@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-align: center ;
+    
+}
+
+h1,h2,h3,h4{
+    font-family:sans-serif ;
+    color: #fff;
+   
+}
+    h1{
+font-size: 64px;
+
+    }
+    h2{
+        color: #2C3E50;
+        font-size: 48px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    input,textarea{
+        padding: 10px;
+        width: 300px;
+        margin: 10px;
+    }       
+ 
+#menu{
+    height: 104px;
+    background-color: #2C3E50;
+    width: 100%;
+	left: 0; 
+	top: 0; 
+	position: fixed;
+}
+#menu2{
+    height: 104px;
+    background-color: #2C3E50; 
+}
+#inicio{
+    height: 660px;
+    background-color: #1abc9c;
+}
+#portafolio{
+    height: 660px;
+    background-color: #fff;
+
+}
+#acerca-de{
+    height: 660px;
+    background-color: #1abc9c; 
+    
+}
+#contacto{
+    
+    height: 660px;
+    background-color: #fff;
+}
+#final{
+    height: 560px;
+    background-color: #2C3E50;
+}
